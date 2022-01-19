@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.title-orange{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 70px;
+}
+.title-orange span{
+    color: #FABE4C;
+}
+.btn{
+  background: linear-gradient(#A4BC46,#85A019);
+    border: none;
+    font-size: 15px;
+    border-radius: 7px;
+    padding: 7px 20px;
+}
